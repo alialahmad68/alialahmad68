@@ -39,7 +39,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alialahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alialahmad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali al ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali al ahmad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-al-ahmad68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali al ahmad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23246700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23246700" height="30" width="40" /></a>
 <a href="https://fb.com/alialahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alialahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/ali_alahmad68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_alahmad68" height="30" width="40" /></a>
