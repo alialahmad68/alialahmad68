@@ -23,6 +23,7 @@
     <br />
 
   </p>
+  
 - 🔭 I’m currently working on **MERN projects**
 
 - 🌱 I’m currently learning **Angular, Laravel, Wordpress**
